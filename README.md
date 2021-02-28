@@ -9,7 +9,7 @@
 - [ReactJS](https://reactjs.org/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Yarn](https://yarnpkg.com/)
+- [NPM](https://www.npmjs.com/)
 
 
 ## Visualização 
